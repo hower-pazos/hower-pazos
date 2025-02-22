@@ -4,7 +4,7 @@
 
 There is nothing more important in my life than striving to become the best version of myself while chasing my goals and ambitions. My passion for problem-solving and technology led me to pursue a **Bachelor of Computer Science** at the **University of Adelaide**, where I developed strong programming skills in **Python, C++, and JavaScript**.
 
-Through hands-on experience in **machine learning, web development, and market research**, I’ve built solutions that automate processes, enhance user experiences, and turn data into meaningful insights. From developing **AI-driven tools** to crafting **full-stack applications**, I thrive on turning ideas into reality.
+Through hands-on experience in **machine learning, web development, and data analysis**, I’ve built solutions that automate processes, enhance user experiences, and turn data into meaningful insights. From developing **AI-driven tools** to crafting **full-stack applications**, I thrive on turning ideas into reality.
 
 Beyond the technical side, I believe in **consistency, adaptability, and surrounding myself with ambitious, like-minded individuals**. Whether it’s refining a machine learning model, designing an intuitive user interface, or solving complex problems, I approach every task with a **growth mindset** and a commitment to excellence.
 
