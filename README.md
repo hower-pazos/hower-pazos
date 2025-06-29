@@ -16,14 +16,12 @@ Beyond the technical side, I believe in **consistency, adaptability, and surroun
 - [Boston Housing Market Analysis Tool](https://github.com/hower-pazos/Boston-Housing-Market-Analysis-Tool)
 
 ## 🖥️ Computer Skills
+- **Programming Languages**: C#, Python, JavaScript, SQL, C++
+- **Full-Stack Development**: HTML, CSS, Flask, Streamlit, Express.js, FastAPI, React.js, Vue.js, Angular
+- **Data Visualisation & Business Tools**: Power BI, Excel, Tableau, Plotly, Matplotlib, Seaborn
+- **Data Science & Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, OpenCV
+- **Cloud Computing & DevOps**: Azure, Snowflake, Docker, Git
 
-- **Programming Languages:** Python, SQL, JavaScript, C++, C  
-- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Scikit-Learn  
-- **AI & Machine Learning:** TensorFlow, PyTorch, OpenCV, YOLOv5  
-- **Front-End Development:** HTML, CSS, Vue.js, React.js, Angular.js  
-- **Back-End Development:** Flask, Express.js  
-- **Database Management:** MySQL, MS SQL Server, Azure SQL Database  
-- **Tools:** Power BI, Azure Databricks, Docker, Git, GitHub  
 
 ## Connect with me:
 I am always eager to connect with other professionals and explore how I can contribute to innovative and transformative projects. If you’re working on exciting technology initiatives, let’s discuss how my experience and expertise can help your organization achieve its goals.
