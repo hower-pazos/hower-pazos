@@ -14,9 +14,13 @@ Beyond the technical side, I believe in **consistency, adaptability, and surroun
 - [Movie Review Sentiment Classifier](https://github.com/hower-pazos/Movie-Review-Sentiment-Classifier)
 - [Volunteer Organisation Web App](https://github.com/hower-pazos/Volunteer-Organisation-Web-App)
 - [Boston Housing Market Analysis Tool](https://github.com/hower-pazos/Boston-Housing-Market-Analysis-Tool)
+- [Coffee Tracker App](https://github.com/hower-pazos/Coffee-Tracker)
+- [Pokédex React App](https://github.com/hower-pazos/Pokedex)
+- [Todo List React App](https://github.com/hower-pazos/Todo-List-App)
+  
 
 ## 🖥️ Computer Skills
-- **Programming Languages**: C#, Python, JavaScript, SQL, C++
+- **Programming Languages**: Python, JavaScript, SQL, C++, C#
 - **Full-Stack Development**: HTML, CSS, Flask, Streamlit, Express.js, FastAPI, React.js, Vue.js, Angular
 - **Data Visualisation & Business Tools**: Power BI, Excel, Tableau, Plotly, Matplotlib, Seaborn
 - **Data Science & Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, OpenCV
