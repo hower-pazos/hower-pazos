@@ -34,6 +34,10 @@ Feel free to reach out to me via:
 <p align="left">
 <a href="https://www.linkedin.com/in/hower-pazos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hower-pazos" height="30" width="40" /></a>
 </p>
-
+<p align="left">
+  <a href="https://howerpazos.netlify.app/#contact" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20me%20a%20message-%F0%9F%93%A7%20Contact%20Form-blue?style=for-the-badge" alt="Send me a message" />
+  </a>
+</p>
 
 
