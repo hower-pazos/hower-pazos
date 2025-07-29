@@ -11,7 +11,7 @@ Beyond the technical side, I believe in **consistency, adaptability, and surroun
 ## Projects:
 
 - [Heart Disease Risk Predictor](https://github.com/hower-pazos/Heart-Disease-Risk-Predictor)
-- [Movie Review Sentiment Classifier](https://github.com/hower-pazos/Movie-Review-Sentiment-Classifier)
+- [Movie Review Sentiment Analyser](https://github.com/hower-pazos/Movie-Review-Sentiment-Analyser)
 - [Volunteer Organisation Web App](https://github.com/hower-pazos/Volunteer-Organisation-Web-App)
 - [Boston Housing Market Analysis Tool](https://github.com/hower-pazos/Boston-Housing-Market-Analysis-Tool)
 - [Coffee Tracker App](https://github.com/hower-pazos/Coffee-Tracker)
